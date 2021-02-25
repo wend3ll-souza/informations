@@ -2,6 +2,7 @@
   "profile": {
     "name": "Bob Wendell",
     "age": 24,
-    "about": "Olá me chamo Bob Wendell e estudo Desenvolvimento de Software."
+    "about": "Olá me chamo Bob Wendell e estudo Desenvolvimento de Software.",
+    "imagePath": "https://github.com/wend3ll-souza/portfolio-web/blob/master/img/perfilImg.png?raw=true"
   }
 }
