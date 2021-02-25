@@ -1,4 +1,4 @@
-{[
+{
   "profile": {
     "name": "Bob Wendell",
     "Age": "24",
@@ -8,4 +8,4 @@
     "title": "Responsive Scroll Section",
     "path": "https://dev.to/wend3llsouza/secao-com-scroll-lateral-controlado-por-botoes-16j",
   },
-]}
+}
