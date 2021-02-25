@@ -3,7 +3,7 @@
     "name": "Bob Wendell",
     "age": 24,
     "about": "Olá me chamo Bob Wendell e estudo Desenvolvimento de Software.",
-    "imagePath": "https://github.com/wend3ll-souza/portfolio-web/blob/master/img/perfilImg.png?raw=true"
+    "imagePath": "https://github.com/wend3ll-souza/portfolio-web/blob/master/img/perfilImg.png?raw=true",
     "contacts": [ {"name": "LinkedIn", "path": "https://www.linkedin.com/in/bob-wendell-souza-5b13781a3/"}, {"name": "Gmail", "path": "mailto:wend3llsouza@gmail.com"}, { "name": "WhatsApp", "path": "https://api.whatsapp.com/send?phone=5519987650743"}, { "name":"GitHub", "path": "https://github.com/wend3ll-souza"}]
   }
 }
