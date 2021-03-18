@@ -59,6 +59,17 @@
         "name": "MYSQL",
         "imagePath": "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       }
+    ],
+    "certificados": [
+      {
+        "imagePath": "https://github.com/wend3ll-souza/certificados/blob/master/fundamentos.png?raw=true"
+      },
+      {
+        "imagePath": "https://github.com/wend3ll-souza/certificados/blob/master/sass.png?raw=true"
+      },
+      {
+        "imagePath": "https://github.com/wend3ll-souza/certificados/blob/master/devtools.png?raw=true"
+      },
     ]
   }
 }
